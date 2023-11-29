@@ -46,3 +46,5 @@ These are the topics covered:
 ⌨️ (3:55:53) Designing an ER Diagram
 ⌨️ (4:08:34) Converting ER Diagrams to Schemas
 
+
+![MySQL / POPSQL](/SQL.PNG?raw=true "SQL")
