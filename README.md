@@ -29,7 +29,7 @@ WHERE
 
 I am finishing up tomorrow and will update then
 
-These are the topics covered:
+These are the topics being covered:
 
 ⌨️ (2:36) What is a Database?
 
