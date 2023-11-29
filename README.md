@@ -21,7 +21,9 @@ I am finishing the tutorial tomorrow and will update then with the concepts I le
 These are the topics covered:
 
 ⌨️ (2:36) What is a Database?
+
 ⌨️ (23:10) Tables & Keys
+
 ⌨️ (43:31) SQL Basics
 ⌨️ (52:26) MySQL Windows Installation
 ⌨️ (1:01:59) MySQL Mac Installation
