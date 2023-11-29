@@ -27,7 +27,7 @@ SET
 
 WHERE
 
-I am finishing the tutorial tomorrow and will update then with the concepts I learned
+I am finishing up tomorrow and will update then
 
 These are the topics covered:
 
