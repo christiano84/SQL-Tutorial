@@ -1,9 +1,11 @@
+![MySQL / POPSQL](https://github.com/christiano84/SQL-Tutorial/blob/main/SQL.png?raw=true "SQL")
+
 # SQL-Tutorial
-Getting re-acquainted with SQL by watching and following along with a 4 hour tutorial
+I am getting re-acquainted with SQL by following along with a 4 hour tutorial
 
-I've been inputting all of the commands from the video into a RDBMS (Using MySQL on Windows with PopSQL as an interface)
+I've been inputting all of the commands from the video into a RDBMS. I am using MySQL on Windows with PopSQL as the interface
 
-I understand the following commands:
+Commands used (and understood):
 
 DELETE
 
@@ -76,4 +78,4 @@ These are the topics covered:
 ⌨️ (4:08:34) Converting ER Diagrams to Schemas
 
 
-![MySQL / POPSQL](https://github.com/christiano84/SQL-Tutorial/blob/main/SQL.png?raw=true "SQL")
+
