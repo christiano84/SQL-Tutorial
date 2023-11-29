@@ -1,9 +1,9 @@
 ![MySQL / POPSQL](https://github.com/christiano84/SQL-Tutorial/blob/main/SQL.png?raw=true "SQL")
 
 # SQL-Tutorial
-I am getting re-acquainted with SQL by following along with a 4 hour tutorial
+I am completing a tutorial about SQL by FreeCodeCamp.
 
-I've been inputting all of the commands from the video into a RDBMS. I am using MySQL on Windows with PopSQL as the interface
+I am using MySQL on Windows with PopSQL as the interface.
 
 Commands used (and understood):
 
