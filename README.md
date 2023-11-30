@@ -3,9 +3,9 @@
 # SQL-Tutorial
 I am completing a tutorial about SQL by FreeCodeCamp.
 
-I am using MySQL on Windows with PopSQL as the interface.
+MySQL on Windows with PopSQL as an interface.
 
-Commands used (and understood):
+Commands:
 
 DELETE
 
@@ -27,7 +27,7 @@ SET
 
 WHERE
 
-I am finishing up tomorrow and will update then
+I am finishing tomorrow and will update my github.
 
 These are the topics being covered:
 
